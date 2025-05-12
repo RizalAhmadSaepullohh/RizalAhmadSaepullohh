@@ -1,5 +1,5 @@
 ### 👋 Halo, saya Rizal Ahmad Saepulloh!
-Mahasiswa Sistem Informasi di Institut Teknologi Nasional (ITENAS) | Machine Learning Cohort at Bangkit Academy 2024 | Penerima Beasiswa KIP Kuliah
+Mahasiswa Sistem Informasi di Institut Teknologi Nasional (ITENAS) | Machine Learning Cohort at Bangkit Academy 2024 
 
 ---
 
