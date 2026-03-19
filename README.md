@@ -44,12 +44,12 @@ Halo! Saya **Rizal Ahmad Saepulloh**, Mahasiswa Sistem Informasi di **Institut T
 
 | Skill | Progress |
 |-------|----------|
-| **Python** | ![Python](https://progress-bar.dev/85/?title=Python&width=200) |
-| **Machine Learning** | ![ML](https://progress-bar.dev/70/?title=ML&width=200) |
-| **Data Analysis** | ![DA](https://progress-bar.dev/65/?title=DA&width=200) |
-| **TensorFlow** | ![TF](https://progress-bar.dev/60/?title=TF&width=200) |
-| **Cloud Computing** | ![CC](https://progress-bar.dev/50/?title=CC&width=200) |
-| **Public Speaking & Softskills**| ![Softskills](https://progress-bar.dev/90/?title=Softskills&width=200) |
+| **Python** | <img src="https://geps.dev/progress/85" height="20" alt="85%"> |
+| **Machine Learning** | <img src="https://geps.dev/progress/70" height="20" alt="70%"> |
+| **Data Analysis** | <img src="https://geps.dev/progress/65" height="20" alt="65%"> |
+| **TensorFlow** | <img src="https://geps.dev/progress/60" height="20" alt="60%"> |
+| **Cloud Computing** | <img src="https://geps.dev/progress/50" height="20" alt="50%"> |
+| **Public Speaking & Softskills**| <img src="https://geps.dev/progress/90" height="20" alt="90%"> |
 
 </details>
 
