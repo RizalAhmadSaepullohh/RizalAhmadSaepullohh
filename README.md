@@ -8,10 +8,10 @@
   <a href="mailto:rizalahmadsaepulloh@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.hackerrank.com/your_username"> <!-- Jangan lupa ganti username HackerRank -->
+  <a href="https://www.hackerrank.com/your_username"> <!-- Ganti dengan username HackerRank Anda -->
     <img src="https://img.shields.io/badge/HackerRank-00FF66?style=for-the-badge&logo=hackerrank&logoColor=0D1117" alt="HackerRank"/>
   </a>
-  <a href="https://your-portfolio-link.com"> <!-- Jangan lupa ganti link Portofolio -->
+  <a href="https://your-portfolio-link.com"> <!-- Ganti dengan tautan portofolio Anda -->
     <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=Google-Chrome&logoColor=0D1117" alt="Portfolio"/>
   </a>
 </p>
@@ -56,15 +56,22 @@ I am an Information Systems undergraduate at **Institut Teknologi Nasional (ITEN
 ### GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=RizalAhmadSaepullohh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00FF66&ring_color=00E5FF" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=RizalAhmadSaepullohh&hide_border=true&background=0D1117&ring=00E5FF&fire=FF0055&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" width="48%" alt="GitHub Streak" />
+  <a href="https://github.com/RizalAhmadSaepullohh">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=RizalAhmadSaepullohh&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/RizalAhmadSaepullohh">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RizalAhmadSaepullohh&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RizalAhmadSaepullohh&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" width="48%" alt="Top Languages" />
-  <img src="https://komarev.com/ghpvc/?username=RizalAhmadSaepullohh&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/RizalAhmadSaepullohh">
+    <img src="https://komarev.com/ghpvc/?username=RizalAhmadSaepullohh&color=ff0055&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizalAhmadSaepullohh&bg_color=0D1117&color=00E5FF&line=00FF66&point=FF0055&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <a href="https://github.com/RizalAhmadSaepullohh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizalAhmadSaepullohh&theme=radical&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
 </p>
